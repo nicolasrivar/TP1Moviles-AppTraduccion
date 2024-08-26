@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="traducir">Traducir</string>
+    <string name="introduzca_una_palabra">Introduzca una palabra</string>
+    <string name="palabra_en_espa_ol">Palabra en español:</string>
+    <string name="english">English</string>
+</resources>
